@@ -25,7 +25,7 @@ Estou interessado em evoluir cada vez mais em **IA aplicada**, **software engine
 
 <div align="center">
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Stacks and Tools
 
 <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=3776AB" alt="Python" />
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E" alt="JavaScript" />
