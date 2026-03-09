@@ -55,16 +55,16 @@ Estou interessado em evoluir cada vez mais em **IA aplicada**, **software engine
 ### 📌 Projetos em Destaque
 
 **[DocOps_Agent](https://github.com/rouggerxavier/DocOps_Agent)**  
-Agente para operações sobre documentos com **RAG**, **LangGraph**, **FastAPI**, **ChromaDB**, autenticação e frontend em React. É o projeto mais forte do seu perfil hoje para representar IA aplicada + backend + interface.
+Agente para operações sobre documentos com **RAG**, **LangGraph**, **FastAPI**, **ChromaDB**, autenticação e frontend em React, Vite e Tailwind. Com uso de IA aplicada + backend + interface.
 
 **[Agente_ImobiliarIA](https://github.com/rouggerxavier/Agente_ImobiliarIA)**  
-Sistema de triagem imobiliária com backend em **FastAPI**, frontend em **React/Vite**, integração com LLMs, quality gate, scoring, roteamento e fluxo webhook. É o projeto público mais completo na linha de agente aplicado a operação real.
+Sistema de triagem imobiliária com backend em **FastAPI**, frontend em **React/Vite**, integração com LLMs, quality gate, scoring, roteamento e fluxo webhook.
 
 **[API_Restful](https://github.com/rouggerxavier/API_Restful)**  
 API em **TypeScript** com **Express**, **Zod**, autenticação **JWT** e frontend em React. Reforça sua base de backend tradicional, validação, arquitetura em camadas e desenvolvimento full stack.
 
 **[projeto_figma](https://github.com/rouggerxavier/projeto_figma)**  
-Plugin do Figma em **TypeScript** para automação de carrosséis com presets, edição em lote e export. Mostra bem sua vertente de automação e construção de ferramentas úteis.
+Plugin do Figma em **TypeScript** para automação de carrosséis com presets, edição em lote e export.
 
 <br/>
 
