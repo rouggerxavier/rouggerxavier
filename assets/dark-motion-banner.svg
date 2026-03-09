@@ -1,0 +1,104 @@
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#0A1027"/>
+      <stop offset="1" stop-color="#05070F"/>
+      <animate attributeName="x1" values="0;120;0" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1280;1160;1280" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(380 90) rotate(12) scale(280 140)">
+      <stop stop-color="#4F46E5" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 120) rotate(-8) scale(320 160)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="260" fill="url(#bg)"/>
+  <ellipse cx="380" cy="90" rx="280" ry="140" fill="url(#glowA)" filter="url(#blur)">
+    <animate attributeName="cx" values="380;440;380" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="90;105;90" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="940" cy="120" rx="320" ry="160" fill="url(#glowB)" filter="url(#blur)">
+    <animate attributeName="cx" values="940;900;940" dur="15s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="120;100;120" dur="15s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g opacity="0.55" stroke="#E5E7EB" stroke-width="1.4" fill="none">
+    <path d="M-30 215C48 178 146 230 227 201C309 172 332 111 430 111C507 111 552 147 628 147C726 147 761 87 857 87C955 87 1004 149 1081 149C1158 149 1212 117 1310 141">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+        M-30 215C48 178 146 230 227 201C309 172 332 111 430 111C507 111 552 147 628 147C726 147 761 87 857 87C955 87 1004 149 1081 149C1158 149 1212 117 1310 141;
+        M-30 205C54 166 142 222 231 194C320 166 344 123 434 123C524 123 558 135 633 135C730 135 773 98 861 98C950 98 1001 160 1076 160C1151 160 1210 121 1310 133;
+        M-30 215C48 178 146 230 227 201C309 172 332 111 430 111C507 111 552 147 628 147C726 147 761 87 857 87C955 87 1004 149 1081 149C1158 149 1212 117 1310 141"/>
+    </path>
+    <path d="M-20 190C59 152 117 190 205 171C293 152 341 74 437 74C533 74 570 116 650 116C731 116 774 70 875 70C958 70 1024 115 1101 115C1178 115 1225 84 1308 94" opacity="0.7">
+      <animate attributeName="d" dur="13s" repeatCount="indefinite"
+        values="
+        M-20 190C59 152 117 190 205 171C293 152 341 74 437 74C533 74 570 116 650 116C731 116 774 70 875 70C958 70 1024 115 1101 115C1178 115 1225 84 1308 94;
+        M-20 181C50 144 125 202 219 184C312 167 357 86 441 86C525 86 575 103 658 103C741 103 789 79 882 79C975 79 1036 124 1107 124C1179 124 1220 98 1308 101;
+        M-20 190C59 152 117 190 205 171C293 152 341 74 437 74C533 74 570 116 650 116C731 116 774 70 875 70C958 70 1024 115 1101 115C1178 115 1225 84 1308 94"/>
+    </path>
+    <path d="M-35 235C40 206 122 248 217 233C312 219 345 163 437 163C529 163 573 195 652 195C731 195 767 154 862 154C958 154 1005 208 1095 208C1185 208 1231 182 1310 192" opacity="0.35">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+        M-35 235C40 206 122 248 217 233C312 219 345 163 437 163C529 163 573 195 652 195C731 195 767 154 862 154C958 154 1005 208 1095 208C1185 208 1231 182 1310 192;
+        M-35 226C45 198 130 240 228 224C327 209 356 173 442 173C527 173 583 184 657 184C731 184 774 163 865 163C955 163 998 217 1088 217C1179 217 1228 191 1310 198;
+        M-35 235C40 206 122 248 217 233C312 219 345 163 437 163C529 163 573 195 652 195C731 195 767 154 862 154C958 154 1005 208 1095 208C1185 208 1231 182 1310 192"/>
+    </path>
+  </g>
+
+  <g fill="#FFFFFF">
+    <circle cx="86" cy="42" r="1.4">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="152" cy="66" r="1.1">
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="264" cy="36" r="1.2">
+      <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="418" cy="58" r="1.5">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="530" cy="31" r="1.2">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="648" cy="44" r="1.1">
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="72" r="1.3">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="868" cy="52" r="1.2">
+      <animate attributeName="opacity" values="0.25;0.8;0.25" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="954" cy="30" r="1.4">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1106" cy="46" r="1.1">
+      <animate attributeName="opacity" values="0.2;0.85;0.2" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1196" cy="70" r="1.3">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.7">
+    <circle cx="220" cy="208" r="2.2" fill="#93C5FD">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 10 -6; 0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="574" cy="194" r="2.5" fill="#C4B5FD">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -8 -10; 0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="952" cy="204" r="2.1" fill="#7DD3FC">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 12 -8; 0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

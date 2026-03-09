@@ -1,12 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width="100%" src="./assets/dark-fluid-banner.svg" alt="Dark Fluid Banner"/>
 
-<div align="center">
+<div align="center" style="margin-top:-122px; margin-bottom:72px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Rougger+Xavier;Estudo+Ci%C3%AAncia+de+Dados+e+Intelig%C3%AAncia+Artificial+na+UFPB;Construo+agentes+de+IA%2C+backends%2C+automa%C3%A7%C3%B5es+e+interfaces+modernas;Foco+em+IA+aplicada%2C+RAG%2C+integra%C3%A7%C3%B5es+e+engenharia+de+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=DADADA&size=28&center=true&vCenter=true&width=1000&pause=900&lines=Estudante+de+Ci%C3%AAncia+de+Dados+e+IA+na+UFPB;Desenvolvendo+agentes+de+IA%2C+RAG+e+automa%C3%A7%C3%B5es;Construindo+APIs%2C+backends+e+interfaces+modernas;Transformando+ideias+t%C3%A9cnicas+em+software+real" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
 
 ## Sobre Mim
 
@@ -110,5 +108,3 @@ Plugin do Figma em **TypeScript** para automação de carrosséis com presets, e
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>

@@ -1,0 +1,89 @@
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#0A1430"/>
+      <stop offset="1" stop-color="#070B18"/>
+    </linearGradient>
+
+    <radialGradient id="nebulaA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(302 98) rotate(8) scale(360 180)">
+      <stop stop-color="#312E81" stop-opacity="0.78"/>
+      <stop offset="0.5" stop-color="#1D4ED8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0F172A" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="nebulaB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 118) rotate(-12) scale(400 190)">
+      <stop stop-color="#1E3A8A" stop-opacity="0.62"/>
+      <stop offset="0.55" stop-color="#4F46E5" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+
+    <filter id="liquidBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="260" fill="url(#bg)"/>
+
+  <ellipse cx="302" cy="98" rx="360" ry="180" fill="url(#nebulaA)" filter="url(#softBlur)">
+    <animate attributeName="cx" values="302;360;302" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="98;88;98" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="360;395;360" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <ellipse cx="940" cy="118" rx="400" ry="190" fill="url(#nebulaB)" filter="url(#softBlur)">
+    <animate attributeName="cx" values="940;890;940" dur="15s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="118;128;118" dur="15s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="190;170;190" dur="18s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g opacity="0.72" filter="url(#liquidBlur)">
+    <path fill="#0EA5E9" fill-opacity="0.17">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+        M81 168C132 134 205 124 275 129C341 134 396 111 457 92C514 74 573 56 638 62C703 68 762 98 818 118C875 138 931 146 989 151C1042 156 1102 155 1151 136C1196 119 1229 88 1260 62V260H81V168Z;
+        M66 156C121 125 193 117 264 121C333 125 396 143 463 126C528 110 577 69 645 71C711 74 754 108 817 128C879 148 951 145 1012 152C1071 158 1126 167 1177 144C1215 127 1240 96 1260 80V260H66V156Z;
+        M81 168C132 134 205 124 275 129C341 134 396 111 457 92C514 74 573 56 638 62C703 68 762 98 818 118C875 138 931 146 989 151C1042 156 1102 155 1151 136C1196 119 1229 88 1260 62V260H81V168Z"/>
+    </path>
+
+    <path fill="#8B5CF6" fill-opacity="0.16">
+      <animate attributeName="d" dur="13s" repeatCount="indefinite"
+        values="
+        M-34 103C32 69 106 88 171 112C237 136 296 165 363 166C424 166 474 143 534 126C598 108 666 101 731 110C791 119 841 142 899 148C968 156 1040 143 1108 130C1165 119 1218 113 1280 126V0H-34V103Z;
+        M-28 92C40 62 110 78 177 100C247 123 306 154 374 157C438 160 494 145 553 136C615 126 673 121 734 128C799 135 853 155 918 158C984 162 1052 149 1115 141C1171 135 1222 132 1280 145V0H-28V92Z;
+        M-34 103C32 69 106 88 171 112C237 136 296 165 363 166C424 166 474 143 534 126C598 108 666 101 731 110C791 119 841 142 899 148C968 156 1040 143 1108 130C1165 119 1218 113 1280 126V0H-34V103Z"/>
+    </path>
+  </g>
+
+  <g opacity="0.34" stroke="#C4B5FD" stroke-width="1.2" fill="none">
+    <path d="M-30 183C80 158 126 219 232 194C319 173 372 97 473 97C575 97 630 169 719 169C809 169 856 100 958 100C1061 100 1111 160 1204 148C1230 145 1255 140 1310 123">
+      <animate attributeName="d" dur="12s" repeatCount="indefinite"
+        values="
+        M-30 183C80 158 126 219 232 194C319 173 372 97 473 97C575 97 630 169 719 169C809 169 856 100 958 100C1061 100 1111 160 1204 148C1230 145 1255 140 1310 123;
+        M-30 174C77 149 137 210 241 186C334 165 388 108 483 108C579 108 627 157 716 157C807 157 861 112 965 112C1066 112 1114 149 1206 140C1237 137 1260 133 1310 115;
+        M-30 183C80 158 126 219 232 194C319 173 372 97 473 97C575 97 630 169 719 169C809 169 856 100 958 100C1061 100 1111 160 1204 148C1230 145 1255 140 1310 123"/>
+    </path>
+    <path d="M-20 207C76 190 141 236 241 222C341 208 393 144 487 144C576 144 627 194 708 194C788 194 852 152 936 152C1024 152 1090 203 1183 192C1225 187 1255 176 1310 160" opacity="0.55">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+        M-20 207C76 190 141 236 241 222C341 208 393 144 487 144C576 144 627 194 708 194C788 194 852 152 936 152C1024 152 1090 203 1183 192C1225 187 1255 176 1310 160;
+        M-20 214C70 196 147 228 247 214C351 199 405 151 492 151C578 151 624 187 706 187C791 187 860 160 942 160C1025 160 1087 196 1177 184C1222 178 1257 169 1310 153;
+        M-20 207C76 190 141 236 241 222C341 208 393 144 487 144C576 144 627 194 708 194C788 194 852 152 936 152C1024 152 1090 203 1183 192C1225 187 1255 176 1310 160"/>
+    </path>
+  </g>
+
+  <g fill="#FFFFFF" opacity="0.85">
+    <circle cx="102" cy="46" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="188" cy="83" r="1.1"><animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="342" cy="54" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="506" cy="36" r="1.1"><animate attributeName="opacity" values="0.2;0.75;0.2" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="694" cy="69" r="1.3"><animate attributeName="opacity" values="0.2;0.95;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="862" cy="47" r="1.2"><animate attributeName="opacity" values="0.15;0.85;0.15" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1004" cy="63" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1148" cy="39" r="1.1"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
