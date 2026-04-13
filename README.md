@@ -61,7 +61,7 @@ Agente para operações sobre documentos com **RAG**, **LangGraph**, **FastAPI**
 Sistema de triagem imobiliária com backend em **FastAPI**, frontend em **React/Vite**, integração com LLMs, quality gate, scoring, roteamento e fluxo webhook.
 
 **[API_Restful](https://github.com/rouggerxavier/API_Restful)**  
-API em **TypeScript** com **Express**, **Zod**, autenticação **JWT** e frontend em React. Reforça sua base de backend tradicional, validação, arquitetura em camadas e desenvolvimento full stack.
+API em **TypeScript** com **Express**, **Zod**, autenticação **JWT** e frontend em React. 
 
 **[projeto_figma](https://github.com/rouggerxavier/projeto_figma)**  
 Plugin do Figma em **TypeScript** para automação de carrosséis com presets, edição em lote e export.
