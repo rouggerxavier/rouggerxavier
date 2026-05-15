@@ -191,9 +191,35 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
 
 <div align="center">
   <a href="https://github.com/rouggerxavier/e-commerce_fine_tuning">
-    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=rouggerxavier&repo=e-commerce_fine_tuning&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" alt="Pinned repo e-commerce_fine_tuning" />
+    <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rouggerxavier&theme=github_dark" alt="Repos por linguagem" />
   </a>
 </div>
+
+<br/>
+
+## 🧪 Métricas rápidas
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/rouggerxavier?style=for-the-badge&logo=github&label=Followers&color=0D1117" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/rouggerxavier/e-commerce_fine_tuning?style=for-the-badge&logo=github&label=Stars%20Aurora&color=0D1117" alt="Stars Aurora" />
+<img src="https://img.shields.io/github/last-commit/rouggerxavier/e-commerce_fine_tuning?style=for-the-badge&logo=git&label=Last%20Commit&color=0D1117" alt="Last commit Aurora" />
+<img src="https://komarev.com/ghpvc/?username=rouggerxavier&style=for-the-badge&color=0D1117" alt="Profile views" />
+
+</div>
+
+<br/>
+
+## 📈 Foco técnico atual
+
+```txt
+AI Engineering & RAG        35%
+Backend & APIs              25%
+Frontend/Product UX         20%
+Data/LLMOps & Evals         20%
+```
+
+**Nível atual:** intermediário-avançado em construção de produtos com IA aplicada (end-to-end).
 
 <br/>
 
@@ -201,11 +227,17 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
 
 <div align="center">
   <a href="https://github.com/rouggerxavier">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=rouggerxavier&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+    <img height="175" src="https://streak-stats.demolab.com?user=rouggerxavier&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak stats" />
   </a>
   <a href="https://github.com/rouggerxavier">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouggerxavier&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Top Langs" />
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rouggerxavier&theme=github_dark" alt="Linguagem com mais commits" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rouggerxavier&theme=github_dark" alt="GitHub profile details" />
 </div>
 
 <br/>
