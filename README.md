@@ -158,6 +158,9 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
         <strong>Stack:</strong> FastAPI, Next.js, TypeScript, SDK Python, arquitetura em monorepo e validação por fases.
       </p>
       <p>
+        <a href="https://eval-ops-web.vercel.app/">
+          <img src="https://img.shields.io/badge/Ver_demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo EvalOps Studio" />
+        </a>
         <img src="https://img.shields.io/badge/case_privado-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Case privado" />
         <img src="https://img.shields.io/badge/LLMOps_platform-0D1117?style=for-the-badge&logo=activitypub&logoColor=white" alt="LLMOps platform" />
       </p>
