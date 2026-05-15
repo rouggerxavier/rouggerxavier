@@ -175,6 +175,9 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
         <strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, Zustand, Zod, Vitest, Playwright e scripts de ingestão.
       </p>
       <p>
+        <a href="https://feiraodaconstrucao.com.br/">
+          <img src="https://img.shields.io/badge/Ver_demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo Feirão da Construção" />
+        </a>
         <img src="https://img.shields.io/badge/case_privado-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Case privado" />
         <img src="https://img.shields.io/badge/MVP_B2C-0D1117?style=for-the-badge&logo=briefcase&logoColor=white" alt="MVP B2C" />
       </p>
