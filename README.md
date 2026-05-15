@@ -158,10 +158,8 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
         <strong>Stack:</strong> FastAPI, Next.js, TypeScript, SDK Python, arquitetura em monorepo e validação por fases.
       </p>
       <p>
-        <a href="https://github.com/rouggerxavier/evalops">
-          <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório EvalOps Studio" />
-        </a>
-        <img src="https://img.shields.io/badge/repo_p%C3%BAblico-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Repo público" />
+        <img src="https://img.shields.io/badge/case_privado-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Case privado" />
+        <img src="https://img.shields.io/badge/LLMOps_platform-0D1117?style=for-the-badge&logo=activitypub&logoColor=white" alt="LLMOps platform" />
       </p>
     </td>
     <td width="50%">
@@ -174,10 +172,8 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
         <strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, Zustand, Zod, Vitest, Playwright e scripts de ingestão.
       </p>
       <p>
-        <a href="https://github.com/rouggerxavier/feirao">
-          <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Feirão da Construção" />
-        </a>
-        <img src="https://img.shields.io/badge/repo_p%C3%BAblico-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Repo público" />
+        <img src="https://img.shields.io/badge/case_privado-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Case privado" />
+        <img src="https://img.shields.io/badge/MVP_B2C-0D1117?style=for-the-badge&logo=briefcase&logoColor=white" alt="MVP B2C" />
       </p>
     </td>
   </tr>
@@ -185,14 +181,11 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
 
 <br/>
 
-## 📌 Repositórios públicos principais
+## 📌 Repositório público principal
 
 <div align="center">
   <a href="https://github.com/rouggerxavier/e-commerce_fine_tuning">
     <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=rouggerxavier&repo=e-commerce_fine_tuning&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" alt="Pinned repo e-commerce_fine_tuning" />
-  </a>
-  <a href="https://github.com/rouggerxavier/evalops">
-    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=rouggerxavier&repo=evalops&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" alt="Pinned repo evalops" />
   </a>
 </div>
 
