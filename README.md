@@ -191,7 +191,7 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
 
 <div align="center">
   <a href="https://github.com/rouggerxavier/e-commerce_fine_tuning">
-    <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rouggerxavier&theme=github_dark" alt="Repos por linguagem" />
+    <img height="145" src="https://img.shields.io/badge/Aurora_Support_AI-repo_p%C3%BAblico-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Aurora Support AI repositório público" />
   </a>
 </div>
 
@@ -213,10 +213,10 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
 ## 📈 Foco técnico atual
 
 ```txt
-AI Engineering & RAG        35%
-Backend & APIs              25%
-Frontend/Product UX         20%
-Data/LLMOps & Evals         20%
+AI Engineering & RAG        35%  ███████
+Backend & APIs              25%  █████
+Frontend/Product UX         20%  ████
+Data/LLMOps & Evals         20%  ████
 ```
 
 **Nível atual:** intermediário-avançado em construção de produtos com IA aplicada (end-to-end).
