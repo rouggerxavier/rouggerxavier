@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/DocOps_Agent-live_demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="DocOps live demo" />
 </a>
 <a href="https://grankasa.vercel.app/">
-  <img src="https://img.shields.io/badge/Agente_ImobiliarIA-live_demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Agente ImobiliarIA live demo" />
+  <img src="https://img.shields.io/badge/Agente_Imobili%C3%A1ria_IA-live_demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Agente Imobiliária IA live demo" />
 </a>
 <a href="https://github.com/rouggerxavier/e-commerce_fine_tuning">
   <img src="https://img.shields.io/badge/Aurora_Support_AI-public_repo-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Aurora Support AI public repo" />
@@ -99,7 +99,7 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
       </p>
     </td>
     <td width="50%">
-      <h3>Agente Imobiliaria IA / Grankasa</h3>
+      <h3>Agente Imobiliária IA / Grankasa</h3>
       <p>
         Site imobiliário moderno com catálogo, experiência de busca, páginas de imóveis e base para triagem
         inteligente de leads. Projeto pensado para demonstrar valor real para imobiliárias e corretores.
@@ -147,15 +147,52 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>EvalOps Studio</h3>
+      <p>
+        Plataforma LLMOps para ingestão de traces, observabilidade, avaliações por rubricas,
+        workflows de prompts/datasets/experimentos e exportação em JSONL.
+      </p>
+      <p>
+        <strong>Stack:</strong> FastAPI, Next.js, TypeScript, SDK Python, arquitetura em monorepo e validação por fases.
+      </p>
+      <p>
+        <a href="https://github.com/rouggerxavier/evalops">
+          <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório EvalOps Studio" />
+        </a>
+        <img src="https://img.shields.io/badge/repo_p%C3%BAblico-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Repo público" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Feirão da Construção (MVP)</h3>
+      <p>
+        MVP focado em catálogo + lista de orçamento + conversão via WhatsApp, sem checkout e sem banco
+        em runtime, com pipeline offline de ingestão de produtos.
+      </p>
+      <p>
+        <strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, Zustand, Zod, Vitest, Playwright e scripts de ingestão.
+      </p>
+      <p>
+        <a href="https://github.com/rouggerxavier/feirao">
+          <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Feirão da Construção" />
+        </a>
+        <img src="https://img.shields.io/badge/repo_p%C3%BAblico-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Repo público" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## 📌 Repositório público principal
+## 📌 Repositórios públicos principais
 
 <div align="center">
   <a href="https://github.com/rouggerxavier/e-commerce_fine_tuning">
     <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=rouggerxavier&repo=e-commerce_fine_tuning&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" alt="Pinned repo e-commerce_fine_tuning" />
+  </a>
+  <a href="https://github.com/rouggerxavier/evalops">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=rouggerxavier&repo=evalops&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" alt="Pinned repo evalops" />
   </a>
 </div>
 
