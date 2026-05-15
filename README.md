@@ -187,29 +187,6 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
 
 <br/>
 
-## 📌 Repositório público principal
-
-<div align="center">
-  <a href="https://github.com/rouggerxavier/e-commerce_fine_tuning">
-    <img height="145" src="https://img.shields.io/badge/Aurora_Support_AI-repo_p%C3%BAblico-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Aurora Support AI repositório público" />
-  </a>
-</div>
-
-<br/>
-
-## 🧪 Métricas rápidas
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/rouggerxavier?style=for-the-badge&logo=github&label=Followers&color=0D1117" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/rouggerxavier/e-commerce_fine_tuning?style=for-the-badge&logo=github&label=Stars%20Aurora&color=0D1117" alt="Stars Aurora" />
-<img src="https://img.shields.io/github/last-commit/rouggerxavier/e-commerce_fine_tuning?style=for-the-badge&logo=git&label=Last%20Commit&color=0D1117" alt="Last commit Aurora" />
-<img src="https://komarev.com/ghpvc/?username=rouggerxavier&style=for-the-badge&color=0D1117" alt="Profile views" />
-
-</div>
-
-<br/>
-
 ## 📈 Foco técnico atual
 
 ```txt
