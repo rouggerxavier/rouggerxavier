@@ -219,8 +219,6 @@ Frontend/Product UX         20%  ████
 Data/LLMOps & Evals         20%  ████
 ```
 
-**Nível atual:** intermediário-avançado em construção de produtos com IA aplicada (end-to-end).
-
 <br/>
 
 ## 📊 GitHub Stats
