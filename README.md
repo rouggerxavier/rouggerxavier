@@ -108,7 +108,7 @@ Data & MLOps          Vertex AI • datasets • evals • CI/CD • automação
         <strong>Stack:</strong> React, Vite, TypeScript, Tailwind, integração com dados de imóveis, UX responsiva e deploy contínuo na Vercel.
       </p>
       <p>
-        <a href="https://grankasa.vercel.app/">
+        <a href="https://grankasa-frontend.pages.dev">
           <img src="https://img.shields.io/badge/Ver_demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo Grankasa" />
         </a>
         <img src="https://img.shields.io/badge/repo_privado-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Repo privado" />
